@@ -33,15 +33,15 @@ Main features:
 
 `1.train process`
 
-<img src="module-3/result/GPU/ezgif.com-gif-maker.gif">
+<img src="Module-3/result/GPU/ezgif.com-gif-maker.gif">
 
 `2.loss change`
 
-<img src="module-3/result/GPU/loss.png" width=400>
+<img src="Module-3/result/GPU/loss.png" width=400>
 
 `3.tensor graph`
 
-<img src="module-1/result/structure.jpg" width=800>
+<img src="Module-1/result/structure.jpg" width=800>
 
 
 
