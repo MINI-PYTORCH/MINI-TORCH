@@ -4,7 +4,7 @@ This is my implementation of mini-pytorch from scratch.
 
 I followed tutorial in `Cornell CS5781: Machine Learning Engineering` to finish this project. 
 
-Main features:
+## Main features:
 
 - tensor
     - tuple index
@@ -29,7 +29,7 @@ Main features:
     - cpu: fast ops-parallel computation
     - gpu: cuda ops
 
-## SOME VISULAZATION
+## Some visualization：
 
 `1.train process`
 
